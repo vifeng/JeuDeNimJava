@@ -15,6 +15,7 @@ Bonne Chance !
 How to Use
 ---
 JEU DE TEST
+
 N = nombre d'allumette au lancement du jeu
 
 N=4 J1=2 ; J2=1 -> J2 gagne
